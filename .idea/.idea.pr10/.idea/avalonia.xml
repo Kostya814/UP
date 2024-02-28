@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="pr10/AddorEditProduct.axaml" value="pr10/pr10.csproj" />
+        <entry key="pr10/App.axaml" value="pr10/pr10.csproj" />
+        <entry key="pr10/MainWindow.axaml" value="pr10/pr10.csproj" />
+        <entry key="pr10/ProfikeAdmin.axaml" value="pr10/pr10.csproj" />
+        <entry key="pr10/Profile.axaml" value="pr10/pr10.csproj" />
+        <entry key="pr10/ProfileAdmin.axaml" value="pr10/pr10.csproj" />
+        <entry key="pr10/UserControl1.axaml" value="pr10/pr10.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
